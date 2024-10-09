@@ -400,7 +400,7 @@ qm set $VMID \
 
   # Ubuntu 24.04 VM
 
-  <a href='https://github.com'><img src='https://img.shields.io/badge/&#x2615;-Buy me a coffee-blue' /></a>
+  <a href='https://github.com/activerolex/Proxmox'><img src='https://img.shields.io/badge/&#x2615;-Buy me a coffee-blue' /></a>
   </div>" >/dev/null
 msg_ok "Created a Ubuntu 24.04 VM ${CL}${BL}(${HN})"
 msg_ok "Completed Successfully!\n"
