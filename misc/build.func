@@ -644,7 +644,7 @@ description() {
 
   # ${APP} LXC
 
-  <a href='https://github.com'><img src='https://img.shields.io/badge/&#x2615;-Buy me a coffee-blue' /></a>
+  <a href='https://github.com/activerolex/Proxmox'><img src='https://img.shields.io/badge/&#x2615;-Buy me a coffee-blue' /></a>
   </div>"
   if [[ -f /etc/systemd/system/ping-instances.service ]]; then
     systemctl start ping-instances.service
